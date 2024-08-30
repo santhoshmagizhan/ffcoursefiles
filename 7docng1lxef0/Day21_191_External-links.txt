@@ -1,0 +1,15 @@
+
+002 Inheritance-Repl.it-Example-Code
+https://repl.it/@appbrewery/Class-Inheritance
+
+003 The-shape-and-shapesize-methods
+https://docs.python.org/3/library/turtle.html#turtle.shape
+
+004 The-write-method
+https://docs.python.org/3/library/turtle.html#turtle.write
+
+007 Piano-Keys-List-Slicing-Repl.it
+https://repl.it/@appbrewery/slicing
+
+007 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67
