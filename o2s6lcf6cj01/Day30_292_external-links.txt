@@ -1,0 +1,15 @@
+
+003 Completed-Day-30-Practice-Code
+https://repl.it/@appbrewery/day-30-end#main.py
+
+004 Exercise-1-IndexError-Handling
+https://app.codingrooms.com/management/assignments/365278/overview
+
+005 Exercise-2-KeyError-Handling
+https://app.codingrooms.com/management/assignments/365280/overview
+
+007 Python-JSON-Module-Documentation
+https://docs.python.org/3/library/json.html
+
+009 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67

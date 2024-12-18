@@ -1,0 +1,21 @@
+
+001 Wiktionary-Frequency-Lists
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+
+001 2018-Frequency-Lists-from-Hermit-Dave
+https://github.com/hermitdave/FrequencyWords/tree/master/content/2018
+
+001 Google-Sheets
+https://www.google.co.uk/sheets/about/
+
+001 Open-Subtitles
+https://www.opensubtitles.org/en/search/subs
+
+001 Google-Translate-for-Google-Sheets
+https://support.google.com/docs/answer/3093331?hl=en-GB
+
+001 Google-Translate-Language-Codes
+https://cloud.google.com/translate/docs/languages?hl=en
+
+009 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67

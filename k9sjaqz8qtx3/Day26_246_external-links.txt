@@ -1,0 +1,21 @@
+
+003 Exercise-1-Squaring-Numbers
+https://app.codingrooms.com/management/assignments/365244/overview
+
+004 Exercise-2-Filtering-Even-Numbers
+https://app.codingrooms.com/management/assignments/365262/overview
+
+005 Exercise-3-Data-Overlap
+https://app.codingrooms.com/management/assignments/365263/overview
+
+008 Exercise-4-Dictionary-Comprehension-1
+https://app.codingrooms.com/management/assignments/365274/overview
+
+009 Exercise-5-Dictionary-Comprehension-2
+https://app.codingrooms.com/management/assignments/580365/overview
+
+010 Day-26-End-Code
+https://repl.it/@appbrewery/day-26-end
+
+012 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67

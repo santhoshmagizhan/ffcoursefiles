@@ -1,0 +1,21 @@
+
+002 Canvas-Documentation-on-tkdocs.com
+https://tkdocs.com/tutorial/canvas.html
+
+003 Tkinter-Grid-columnspan-Demo-Repl
+https://repl.it/@appbrewery/grid-columnspan-demo#main.py
+
+005 w3schools-Python-Writing-to-File-Documentation
+https://www.w3schools.com/python/python_file_write.asp
+
+005 Entry-Widget-Docs-on-tkdocs.com
+https://tkdocs.com/tutorial/widgets.html#entry
+
+007 w3schools-Python-join-method-Documentation
+https://www.w3schools.com/python/ref_string_join.asp
+
+007 Pyperclip-documentation-on-PyPi
+https://pypi.org/project/pyperclip/
+
+007 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67

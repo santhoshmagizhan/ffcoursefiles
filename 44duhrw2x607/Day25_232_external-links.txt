@@ -1,0 +1,21 @@
+
+002 Fork-the-Day-25-Starting-Repl
+https://repl.it/@appbrewery/day-25-start#main.py
+
+002 Pandas-Documentation
+https://pandas.pydata.org/docs/
+
+002 Pandas-API-Reference
+https://pandas.pydata.org/docs/reference/index.html
+
+004 Central-Park-Squirrel-Census-Data
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
+
+004 Day-25-End-Code
+https://repl.it/@appbrewery/day-25-end
+
+005 Sporcles-Name-the-States-Game
+https://www.sporcle.com/games/g/states
+
+007 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67

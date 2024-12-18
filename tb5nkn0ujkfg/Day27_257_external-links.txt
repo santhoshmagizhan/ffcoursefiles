@@ -1,0 +1,21 @@
+
+003 Python-Docs-The-Packer
+https://docs.python.org/3/library/tkinter.html#the-packer
+
+003 TCL-tk-Docs-pack-
+http://tcl.tk/man/tcl8.6/TkCmd/pack.htm
+
+006 Playground.py-Completed-Code
+https://repl.it/@appbrewery/day-27-playground
+
+007 TCL-tk-Docs-Entry-
+http://tcl.tk/man/tcl8.6/TkCmd/entry.htm
+
+008 Tkinter-Widget-Example-Code-Palette
+https://repl.it/@appbrewery/tkinter-widget-demo
+
+009 Day-27-End-Code
+https://repl.it/@appbrewery/day-27-end
+
+010 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67
