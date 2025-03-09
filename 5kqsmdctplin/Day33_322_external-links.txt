@@ -1,0 +1,39 @@
+
+001 What-is-the-ISS-
+https://en.wikipedia.org/wiki/International_Space_Station
+
+002 Application-Programming-Interface-Wikipedia-Entry
+https://en.wikipedia.org/wiki/Application_programming_interface
+
+003 ISS-Current-Location-API-Documentation
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
+003 JSON-Viewer-Extension
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+003 or-just-use-Firefox-to-view-JSON-
+https://www.mozilla.org/en-GB/exp/firefox/new/
+
+004 HTTP-Status-Codes
+https://httpstatuses.com/
+
+004 Latitude-and-Longitude-to-Address-Tool
+https://www.latlong.net/Show-Latitude-Longitude.html
+
+004 Python-Requests-Module-Documentation
+https://docs.python-requests.org/en/latest/
+
+005 Kanye-Quotes-API
+https://kanye.rest/
+
+006 Sunrise-and-Sunset-Times-API
+https://sunrise-sunset.org/api
+
+006 w3schools-Python-split-method-Documentation
+https://www.w3schools.com/python/ref_string_split.asp
+
+007 Find-Your-Current-Latitude-and-Longitude-Tool
+https://www.latlong.net
+
+007 Course-Fixes-Report-an-Issue
+https://forms.gle/fpNEQooYBX25gcG67
